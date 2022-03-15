@@ -102,7 +102,9 @@ body {
 .section-summary p {
 padding: 0 40px;
 }
-
+.my-skills {
+    padding: 0 0 0 100px;
+}
 .section-title-two {
     /*border-bottom: 20px solid rgb(173, 120, 6);*/
     font-size: 70px;
